@@ -95,3 +95,63 @@ li,ul{
   margin-top: 5px;
   font-size: 18px;
 }
+
+.quoteContainer{
+  background-color: #e5e7eb;
+  margin-top: 10rem;
+}
+.quote{
+  padding: 5rem;
+  display: flex;
+  justify-content: center;
+  font-size: 36px;
+}
+.sign{
+  font-size: 24px;
+  display: flex;
+  font-weight: 600;
+  justify-content: end;
+}
+
+.actionContainer{
+  background-color: #3882f6;
+  width: 100%;
+  margin-top: 8rem;
+  border-radius: 10px;
+  margin-bottom: 8rem;
+}
+.textActionContainer{
+  font-size: 18px;
+  display: flex;
+  justify-content: space-evenly;
+  padding: 3rem;
+  color: #e5e7eb;
+  align-items: center;
+}
+.tAction{
+ margin: 0px;
+ padding: 0px;
+}
+.pAction{
+  margin: 0px;
+  padding: 0px;
+}
+.aAction{
+  text-decoration: none;
+  color: #e5e7eb;
+  background-color: transparent;
+  outline: 2px solid #e5e7eb;
+  padding: .4rem 2rem;
+  border-radius: 10px;
+}
+
+.footerContainer{
+  background-color: #1f2937;
+}
+.copyright{
+  display: flex;
+  justify-content: center;
+  color: #f9faf8;
+  padding: 1rem;
+  font-size: 14px;
+}
