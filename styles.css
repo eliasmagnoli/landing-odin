@@ -44,3 +44,54 @@ li,ul{
   color: #e5e7eb;
   font-size: 18px;
 }
+
+.heroContainer{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.webAwesome{
+  font-size: 48px;
+  font-weight: 700;
+  color: #f9faf8;
+  margin: 0px;
+  padding: 0px;
+}
+.textHero{
+  font-size: 18px;
+  color: #e5e7eb;
+  margin: 0px;
+  padding-bottom: 1rem;
+}
+.signupBtn{
+  text-decoration: none;
+  color: #f9faf8;
+  padding: .5rem 2rem;
+  border-radius: 10px;
+  background-color: #3882f6;
+}
+.imgHolder{
+  margin-top: 7rem;
+  width: 500px;
+  margin-bottom: 7rem;
+}
+
+.randInfo{
+  font-size: 36px;
+  font-weight: 700;
+  color: #1f2937;
+  text-align: center;
+}
+.cardsContainer{
+  display: flex;
+  gap: 2rem;
+}
+.imgCard{
+  width: 200px;
+  border-radius: 10px;
+}
+.pCard{
+  text-align: center;
+  margin-top: 5px;
+  font-size: 18px;
+}
